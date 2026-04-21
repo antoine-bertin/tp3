@@ -22,4 +22,4 @@ puis nous avons vue dans la suite de ce tp les commandes de base permettant d'ut
 --La commande **git status** permet de voir l'état actuelle des modifications entre le local et le depot. </br>
 --La commabde **git log** permet de vérifier tout les modifications du dépots git. </br>
 
-
+Nous avons maintenant créé une nouvelle branche de test

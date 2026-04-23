@@ -1,4 +1,4 @@
-public class Portefeuille 
+    public class Portefeuille 
 {
 	private Cryptomonnaie monnaie;
 	private double montant;           // Soit le nombre de jetons

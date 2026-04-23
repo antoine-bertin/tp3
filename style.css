@@ -18,5 +18,28 @@ th {
     color: #FDFEFB;
 }
 
+a {
+    color: #C30000;
+    font-weight: 200;
+    text-decoration: none;
+}
+
+p, ul, ol, table, dl {
+    margin: 0 0 22px;
+}
+
+img[alt=drawing] {
+    width: 200px;
+}
+
+p img, .emoji {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+    text-align: center;
+    border: none;
+}
+
 
 
